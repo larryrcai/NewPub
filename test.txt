@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Test H
-=======
 Test G
->>>>>>> 54cc3800f282a8b8765e5a7a483c234a9ef1f1d3
+
